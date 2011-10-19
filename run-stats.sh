@@ -1,3 +1,4 @@
+mkdir -p stats
 ohcount dexy > stats/dexy.count
 ohcount tests > stats/tests.count
 ohcount handlers > stats/filters.count
