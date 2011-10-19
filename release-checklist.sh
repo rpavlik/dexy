@@ -1,6 +1,5 @@
 echo "running pyflakes"
 pyflakes dexy/
-pyflakes handlers/
 
 echo "Checking if all changes have been committed to git and pushed..."
 
